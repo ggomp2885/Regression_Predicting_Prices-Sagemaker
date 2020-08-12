@@ -1,4 +1,4 @@
-# Predicting_Home_Prices-Sagemaker_Studio
+# Predicting_Home_Prices-SagemakerS
 This repository shows the accuracy of 15 different regression models on predicting the sale price of houses in Boston
 
 ## Files included in this repository and their use

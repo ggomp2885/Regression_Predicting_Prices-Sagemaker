@@ -14,6 +14,7 @@ Main Notebook.ipynb - JupyterNotebook containing all code used in project
    Proposal.pdf - A presentation of all steps taken in Main Notebook, in detail.
 
    Project Report.pdf - Another presentation of all steps taken in Main Notebook, formatted slightly different.
+   
    housing.csv - the dataset used for the project
 
    LICENSE - MIT license for this project

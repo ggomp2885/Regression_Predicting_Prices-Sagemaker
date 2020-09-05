@@ -11,10 +11,9 @@ https://www.kaggle.com/c/boston-housing
 ### Files in this repository and their purpose
 Main Notebook.ipynb - JupyterNotebook containing all code used in project
 
-   Proposal.pdf - Proposal for Capstone Project
+   Proposal.pdf - A presentation of all steps taken in Main Notebook, in detail.
 
-   Project Report.pdf - A detailed report of all steps of the project
-
+   Project Report.pdf - Another presentation of all steps taken in Main Notebook, formatted slightly different.
    housing.csv - the dataset used for the project
 
    LICENSE - MIT license for this project

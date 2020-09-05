@@ -8,7 +8,7 @@ Link to Boston Housing Dataset:
 https://www.kaggle.com/c/boston-housing
 
 
-## Files in this repository and their purpose
+### Files in this repository and their purpose
 Main Notebook.ipynb - JupyterNotebook containing all code used in project
 
    Proposal.pdf - Proposal for Capstone Project
@@ -22,7 +22,7 @@ Main Notebook.ipynb - JupyterNotebook containing all code used in project
    README - this file
 
 
-## Main Notebook uses Python 3.6, and the following libraries
+### Main Notebook uses Python 3.6, and the following libraries
    Pandas
 
    Matplotlib

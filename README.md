@@ -1,5 +1,5 @@
 # Predicting_Home_Prices-SagemakerS
-## Project Overview
+## Project Overview. 
 In this project, I am able to predict the sale price of homes in Boston. 
 I am able to do this by using a data set of 14 measurements, recorded on 506 homes, recorded by the UCI machine learning repository in 1978.
 I start by creating visualizations of the data, and then I use a test harness of 15 different combinations of known regression algorithms, with 10-fold cross validation, to find the relationships between these measurements.  I use RMSE as my evaluation metric. I then graph the results of each algorithm, and then I hyperparameter tune the top 3 highest performing algorithms. Then, I test the final 3 algoritms with an unseen test set of 20% of the data, and choose the highest performing model overall.
